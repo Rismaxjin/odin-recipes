@@ -1,12 +1,13 @@
 
 .btn{
-    background-color: blueviolet;
+    background-color: grey;
     color: white;
     font-size: 20px;
 }
 
 h1{
     text-align: center;
+    color: powderblue;
 }
 
 .allbdy{
@@ -17,6 +18,12 @@ ul {
     margin-top: 50px;
 }
 
-* {
-    border: 2px solid red;
+img {
+    border-bottom: 4px solid gray;
+    border-top: 4px solid gray;
+    border-left: 4px solid blue;
+    border-right: 4px solid red;
+    margin: 0px 34em;
 }
+
+  
